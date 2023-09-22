@@ -27,11 +27,10 @@ body{
     text-align: center;
 }
 
-.container{aviso
+.container{
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
-
 }
 
 .container__botao{
@@ -63,9 +62,10 @@ body{
     margin: 1em 0 2em 0;
 }
 
-.container__caixa
+.container__caixa{
     margin: 0 6em;
-    
+}
+
 .segundario__imagem{
     width: 80%;
 }
@@ -75,8 +75,8 @@ body{
     margin: 0 10em;
 }
 .descricao__titulo{
-    ;font-size: 480px;
-    font-weight: 700
+    font-size: 480px;
+    font-weight: 700;
     color: var(--branco-principal);
     margin-bottom: 0 , 1em;
     color: var(--cinza-secundario);
